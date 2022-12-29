@@ -1,0 +1,3 @@
+theme: minima
+title: ETF Selection
+description: we are going to donwload time series data for a list of ETFs and run different asset allocation algorithms.
