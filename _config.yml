@@ -1,0 +1,5 @@
+# Build setting
+markdown: kramdown
+theme: modernist
+
+
