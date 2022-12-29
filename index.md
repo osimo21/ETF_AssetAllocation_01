@@ -1,4 +1,4 @@
 ---
-# ***ETF Selection & Allocation***
+# ***ETFs Selection & Allocation***
 ---
 
