@@ -1,4 +1,4 @@
 ---
-# title: ***ETF Selection & Allocation***
+# ***ETF Selection & Allocation***
 ---
 
